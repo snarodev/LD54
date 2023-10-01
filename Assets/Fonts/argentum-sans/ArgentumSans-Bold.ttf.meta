@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b2d7ee5e303837147b3051b9d5d2e33d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Argentum Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4076e21913ee55644b75ceee7f18125c, type: 3}
+  - {fileID: 12800000, guid: 41daa3388cb380c4cb6fa3b13f644c5a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

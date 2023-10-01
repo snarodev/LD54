@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 343fe06cf9dd83a4abf10a4b631376d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Libra Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82200c1a48fef94459ad3883d3ce8d50, type: 3}
+  - {fileID: 12800000, guid: c0c7171f861ea2d4193ec4dd26aec8d0, type: 3}
+  - {fileID: 12800000, guid: f1e67438e2265214194decd443eeb7ef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
